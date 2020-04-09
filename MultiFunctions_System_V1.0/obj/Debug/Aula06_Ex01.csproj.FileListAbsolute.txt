@@ -1,0 +1,56 @@
+C:\Users\manager\Desktop\Aula06_Ex01\Aula06_Ex01\bin\Debug\Aula06_Ex01.exe.config
+C:\Users\manager\Desktop\Aula06_Ex01\Aula06_Ex01\bin\Debug\Aula06_Ex01.exe
+C:\Users\manager\Desktop\Aula06_Ex01\Aula06_Ex01\bin\Debug\Aula06_Ex01.pdb
+C:\Users\manager\Desktop\Aula06_Ex01\Aula06_Ex01\obj\Debug\Aula06_Ex01.csprojAssemblyReference.cache
+C:\Users\manager\Desktop\Aula06_Ex01\Aula06_Ex01\obj\Debug\Aula06_Ex01.frmPrincipal.resources
+C:\Users\manager\Desktop\Aula06_Ex01\Aula06_Ex01\obj\Debug\Aula06_Ex01.Properties.Resources.resources
+C:\Users\manager\Desktop\Aula06_Ex01\Aula06_Ex01\obj\Debug\Aula06_Ex01.csproj.GenerateResource.cache
+C:\Users\manager\Desktop\Aula06_Ex01\Aula06_Ex01\obj\Debug\Aula06_Ex01.csproj.CoreCompileInputs.cache
+C:\Users\manager\Desktop\Aula06_Ex01\Aula06_Ex01\obj\Debug\Aula06_Ex01.exe
+C:\Users\manager\Desktop\Aula06_Ex01\Aula06_Ex01\obj\Debug\Aula06_Ex01.pdb
+C:\Users\manager\Desktop\Aula06_Ex01\Aula06_Ex01\obj\Debug\Aula06_Ex01.CaixaSobre.resources
+C:\Users\manager\Desktop\Aula06_Ex01\Aula06_Ex01\obj\Debug\Aula06_Ex01.frmSplash.resources
+C:\Users\manager\Desktop\Aula06_Ex01\Aula06_Ex01\obj\Debug\Aula06_Ex01.frmLogin.resources
+E:\- Técnico em Desenvolvimento de Sistemas\2° Módulo - 1.20\Desenvolvimento de Sistemas\Atividades\Aula 06\Aula06_Ex01_UPDATE\Aula06_Ex01\bin\Debug\Aula06_Ex01.exe.config
+E:\- Técnico em Desenvolvimento de Sistemas\2° Módulo - 1.20\Desenvolvimento de Sistemas\Atividades\Aula 06\Aula06_Ex01_UPDATE\Aula06_Ex01\bin\Debug\Aula06_Ex01.exe
+E:\- Técnico em Desenvolvimento de Sistemas\2° Módulo - 1.20\Desenvolvimento de Sistemas\Atividades\Aula 06\Aula06_Ex01_UPDATE\Aula06_Ex01\bin\Debug\Aula06_Ex01.pdb
+E:\- Técnico em Desenvolvimento de Sistemas\2° Módulo - 1.20\Desenvolvimento de Sistemas\Atividades\Aula 06\Aula06_Ex01_UPDATE\Aula06_Ex01\obj\Debug\Aula06_Ex01.csprojAssemblyReference.cache
+E:\- Técnico em Desenvolvimento de Sistemas\2° Módulo - 1.20\Desenvolvimento de Sistemas\Atividades\Aula 06\Aula06_Ex01_UPDATE\Aula06_Ex01\obj\Debug\Aula06_Ex01.CaixaSobre.resources
+E:\- Técnico em Desenvolvimento de Sistemas\2° Módulo - 1.20\Desenvolvimento de Sistemas\Atividades\Aula 06\Aula06_Ex01_UPDATE\Aula06_Ex01\obj\Debug\Aula06_Ex01.frmPrincipal.resources
+E:\- Técnico em Desenvolvimento de Sistemas\2° Módulo - 1.20\Desenvolvimento de Sistemas\Atividades\Aula 06\Aula06_Ex01_UPDATE\Aula06_Ex01\obj\Debug\Aula06_Ex01.frmLogin.resources
+E:\- Técnico em Desenvolvimento de Sistemas\2° Módulo - 1.20\Desenvolvimento de Sistemas\Atividades\Aula 06\Aula06_Ex01_UPDATE\Aula06_Ex01\obj\Debug\Aula06_Ex01.Properties.Resources.resources
+E:\- Técnico em Desenvolvimento de Sistemas\2° Módulo - 1.20\Desenvolvimento de Sistemas\Atividades\Aula 06\Aula06_Ex01_UPDATE\Aula06_Ex01\obj\Debug\Aula06_Ex01.frmSplash.resources
+E:\- Técnico em Desenvolvimento de Sistemas\2° Módulo - 1.20\Desenvolvimento de Sistemas\Atividades\Aula 06\Aula06_Ex01_UPDATE\Aula06_Ex01\obj\Debug\Aula06_Ex01.csproj.GenerateResource.cache
+E:\- Técnico em Desenvolvimento de Sistemas\2° Módulo - 1.20\Desenvolvimento de Sistemas\Atividades\Aula 06\Aula06_Ex01_UPDATE\Aula06_Ex01\obj\Debug\Aula06_Ex01.csproj.CoreCompileInputs.cache
+E:\- Técnico em Desenvolvimento de Sistemas\2° Módulo - 1.20\Desenvolvimento de Sistemas\Atividades\Aula 06\Aula06_Ex01_UPDATE\Aula06_Ex01\obj\Debug\Aula06_Ex01.exe
+E:\- Técnico em Desenvolvimento de Sistemas\2° Módulo - 1.20\Desenvolvimento de Sistemas\Atividades\Aula 06\Aula06_Ex01_UPDATE\Aula06_Ex01\obj\Debug\Aula06_Ex01.pdb
+E:\- Técnico em Desenvolvimento de Sistemas\2° Módulo - 1.20\Desenvolvimento de Sistemas\Atividades\Aula 06\Aula06_Ex01_FIM\Aula06_Ex01\bin\Debug\Aula06_Ex01.exe.config
+E:\- Técnico em Desenvolvimento de Sistemas\2° Módulo - 1.20\Desenvolvimento de Sistemas\Atividades\Aula 06\Aula06_Ex01_FIM\Aula06_Ex01\bin\Debug\Aula06_Ex01.exe
+E:\- Técnico em Desenvolvimento de Sistemas\2° Módulo - 1.20\Desenvolvimento de Sistemas\Atividades\Aula 06\Aula06_Ex01_FIM\Aula06_Ex01\bin\Debug\Aula06_Ex01.pdb
+E:\- Técnico em Desenvolvimento de Sistemas\2° Módulo - 1.20\Desenvolvimento de Sistemas\Atividades\Aula 06\Aula06_Ex01_FIM\Aula06_Ex01\obj\Debug\Aula06_Ex01.csprojAssemblyReference.cache
+E:\- Técnico em Desenvolvimento de Sistemas\2° Módulo - 1.20\Desenvolvimento de Sistemas\Atividades\Aula 06\Aula06_Ex01_FIM\Aula06_Ex01\obj\Debug\Aula06_Ex01.CaixaSobre.resources
+E:\- Técnico em Desenvolvimento de Sistemas\2° Módulo - 1.20\Desenvolvimento de Sistemas\Atividades\Aula 06\Aula06_Ex01_FIM\Aula06_Ex01\obj\Debug\Aula06_Ex01.frmPrincipal.resources
+E:\- Técnico em Desenvolvimento de Sistemas\2° Módulo - 1.20\Desenvolvimento de Sistemas\Atividades\Aula 06\Aula06_Ex01_FIM\Aula06_Ex01\obj\Debug\Aula06_Ex01.frmLogin.resources
+E:\- Técnico em Desenvolvimento de Sistemas\2° Módulo - 1.20\Desenvolvimento de Sistemas\Atividades\Aula 06\Aula06_Ex01_FIM\Aula06_Ex01\obj\Debug\Aula06_Ex01.Properties.Resources.resources
+E:\- Técnico em Desenvolvimento de Sistemas\2° Módulo - 1.20\Desenvolvimento de Sistemas\Atividades\Aula 06\Aula06_Ex01_FIM\Aula06_Ex01\obj\Debug\Aula06_Ex01.frmSplash.resources
+E:\- Técnico em Desenvolvimento de Sistemas\2° Módulo - 1.20\Desenvolvimento de Sistemas\Atividades\Aula 06\Aula06_Ex01_FIM\Aula06_Ex01\obj\Debug\Aula06_Ex01.csproj.GenerateResource.cache
+E:\- Técnico em Desenvolvimento de Sistemas\2° Módulo - 1.20\Desenvolvimento de Sistemas\Atividades\Aula 06\Aula06_Ex01_FIM\Aula06_Ex01\obj\Debug\Aula06_Ex01.csproj.CoreCompileInputs.cache
+E:\- Técnico em Desenvolvimento de Sistemas\2° Módulo - 1.20\Desenvolvimento de Sistemas\Atividades\Aula 06\Aula06_Ex01_FIM\Aula06_Ex01\obj\Debug\Aula06_Ex01.exe
+E:\- Técnico em Desenvolvimento de Sistemas\2° Módulo - 1.20\Desenvolvimento de Sistemas\Atividades\Aula 06\Aula06_Ex01_FIM\Aula06_Ex01\obj\Debug\Aula06_Ex01.pdb
+E:\- Técnico em Desenvolvimento de Sistemas\2° Módulo - 1.20\Desenvolvimento de Sistemas\Atividades\Aula 06\Aula06_Ex01_FIM\Aula06_Ex01\obj\Debug\Aula06_Ex01.frmDados.resources
+E:\- Técnico em Desenvolvimento de Sistemas\2° Módulo - 1.20\Desenvolvimento de Sistemas\Atividades\Aula 06\Aula06_Ex01_FIM\Aula06_Ex01\obj\Debug\Aula06_Ex01.frmPedido.resources
+D:\- Técnico em Desenvolvimento de Sistemas\2° Módulo - 1.20\Desenvolvimento de Sistemas\Atividades\Aula 06\Aula06_Ex01_FIM\Aula06_Ex01\bin\Debug\Aula06_Ex01.exe.config
+D:\- Técnico em Desenvolvimento de Sistemas\2° Módulo - 1.20\Desenvolvimento de Sistemas\Atividades\Aula 06\Aula06_Ex01_FIM\Aula06_Ex01\bin\Debug\Aula06_Ex01.exe
+D:\- Técnico em Desenvolvimento de Sistemas\2° Módulo - 1.20\Desenvolvimento de Sistemas\Atividades\Aula 06\Aula06_Ex01_FIM\Aula06_Ex01\bin\Debug\Aula06_Ex01.pdb
+D:\- Técnico em Desenvolvimento de Sistemas\2° Módulo - 1.20\Desenvolvimento de Sistemas\Atividades\Aula 06\Aula06_Ex01_FIM\Aula06_Ex01\obj\Debug\Aula06_Ex01.csprojAssemblyReference.cache
+D:\- Técnico em Desenvolvimento de Sistemas\2° Módulo - 1.20\Desenvolvimento de Sistemas\Atividades\Aula 06\Aula06_Ex01_FIM\Aula06_Ex01\obj\Debug\Aula06_Ex01.CaixaSobre.resources
+D:\- Técnico em Desenvolvimento de Sistemas\2° Módulo - 1.20\Desenvolvimento de Sistemas\Atividades\Aula 06\Aula06_Ex01_FIM\Aula06_Ex01\obj\Debug\Aula06_Ex01.frmPrincipal.resources
+D:\- Técnico em Desenvolvimento de Sistemas\2° Módulo - 1.20\Desenvolvimento de Sistemas\Atividades\Aula 06\Aula06_Ex01_FIM\Aula06_Ex01\obj\Debug\Aula06_Ex01.frmDados.resources
+D:\- Técnico em Desenvolvimento de Sistemas\2° Módulo - 1.20\Desenvolvimento de Sistemas\Atividades\Aula 06\Aula06_Ex01_FIM\Aula06_Ex01\obj\Debug\Aula06_Ex01.frmLogin.resources
+D:\- Técnico em Desenvolvimento de Sistemas\2° Módulo - 1.20\Desenvolvimento de Sistemas\Atividades\Aula 06\Aula06_Ex01_FIM\Aula06_Ex01\obj\Debug\Aula06_Ex01.frmPedido.resources
+D:\- Técnico em Desenvolvimento de Sistemas\2° Módulo - 1.20\Desenvolvimento de Sistemas\Atividades\Aula 06\Aula06_Ex01_FIM\Aula06_Ex01\obj\Debug\Aula06_Ex01.Properties.Resources.resources
+D:\- Técnico em Desenvolvimento de Sistemas\2° Módulo - 1.20\Desenvolvimento de Sistemas\Atividades\Aula 06\Aula06_Ex01_FIM\Aula06_Ex01\obj\Debug\Aula06_Ex01.frmSplash.resources
+D:\- Técnico em Desenvolvimento de Sistemas\2° Módulo - 1.20\Desenvolvimento de Sistemas\Atividades\Aula 06\Aula06_Ex01_FIM\Aula06_Ex01\obj\Debug\Aula06_Ex01.csproj.GenerateResource.cache
+D:\- Técnico em Desenvolvimento de Sistemas\2° Módulo - 1.20\Desenvolvimento de Sistemas\Atividades\Aula 06\Aula06_Ex01_FIM\Aula06_Ex01\obj\Debug\Aula06_Ex01.csproj.CoreCompileInputs.cache
+D:\- Técnico em Desenvolvimento de Sistemas\2° Módulo - 1.20\Desenvolvimento de Sistemas\Atividades\Aula 06\Aula06_Ex01_FIM\Aula06_Ex01\obj\Debug\Aula06_Ex01.exe
+D:\- Técnico em Desenvolvimento de Sistemas\2° Módulo - 1.20\Desenvolvimento de Sistemas\Atividades\Aula 06\Aula06_Ex01_FIM\Aula06_Ex01\obj\Debug\Aula06_Ex01.pdb
